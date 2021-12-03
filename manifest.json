@@ -1,0 +1,22 @@
+{
+   "action": {
+      "default_icon": "icons/icon128.png",
+      "default_popup": "files/popup.html",
+      "default_title": "__MSG_appButtonDesc__"
+   },
+   "content_scripts": [ {
+      "js": [ "install.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "The green alien needs your help to jump higher!",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "manifest_version": 3,
+   "name": "doodle jump",
+   "version": "21.9.21.2"
+}

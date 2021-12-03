@@ -1,0 +1,35 @@
+{
+   "appButtonDesc": {
+      "message": "Doodle Jump"
+   },
+   "appDesc": {
+      "message": "The green alien needs your help to jump higher! The famous Doodle Jump game is available in your browser."
+   },
+   "appName": {
+      "message": "Doodle Jump"
+   },
+   "best_score": {
+      "message": "Best Score"
+   },
+   "game_over": {
+      "message": "game over!"
+   },
+   "info_1": {
+      "message": "Use"
+   },
+   "info_2": {
+      "message": "to move"
+   },
+   "info_3": {
+      "message": "and SPACE to (re)start..."
+   },
+   "restart": {
+      "message": "Restart"
+   },
+   "score": {
+      "message": "Score"
+   },
+   "start": {
+      "message": "Start"
+   }
+}
